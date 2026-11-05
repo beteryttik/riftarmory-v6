@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RHR",
+    "NEN",
+    "RHR"
+  ],
+  "key": {
+    "R": "riftarmory:rift_rod",
+    "H": "riftarmory:rift_heart",
+    "N": "minecraft:nether_star",
+    "E": "minecraft:echo_shard"
+  },
+  "result": {
+    "id": "riftarmory:annihilation_stick",
+    "count": 1
+  }
+}

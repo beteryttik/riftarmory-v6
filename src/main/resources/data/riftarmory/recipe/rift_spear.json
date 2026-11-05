@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  A",
+    " B ",
+    "C  "
+  ],
+  "key": {
+    "A": "riftarmory:rift_rod",
+    "B": "minecraft:stick",
+    "C": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "riftarmory:rift_spear",
+    "count": 1
+  }
+}

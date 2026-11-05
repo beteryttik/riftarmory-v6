@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " B ",
+    " C "
+  ],
+  "key": {
+    "A": "riftarmory:dragon_rod",
+    "B": "minecraft:blaze_rod",
+    "C": "minecraft:netherite_scrap"
+  },
+  "result": {
+    "id": "riftarmory:dragon_mace",
+    "count": 1
+  }
+}

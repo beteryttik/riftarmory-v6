@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:obsidian",
+    "minecraft:amethyst_shard",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "riftarmory:rift_rod",
+    "count": 1
+  }
+}

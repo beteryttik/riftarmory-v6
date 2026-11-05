@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "riftarmory:ghost_rod",
+    "minecraft:ghast_tear"
+  ],
+  "result": {
+    "id": "riftarmory:ghost_heart",
+    "count": 1
+  }
+}

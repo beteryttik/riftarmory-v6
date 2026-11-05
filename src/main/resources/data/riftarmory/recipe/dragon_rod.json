@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:blaze_rod",
+    "minecraft:netherite_scrap",
+    "minecraft:ender_pearl"
+  ],
+  "result": {
+    "id": "riftarmory:dragon_rod",
+    "count": 1
+  }
+}

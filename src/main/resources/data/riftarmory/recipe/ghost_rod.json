@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:ghast_tear",
+    "minecraft:phantom_membrane",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "riftarmory:ghost_rod",
+    "count": 1
+  }
+}

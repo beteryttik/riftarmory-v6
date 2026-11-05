@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " B ",
+    " C "
+  ],
+  "key": {
+    "A": "riftarmory:ghost_heart",
+    "B": "minecraft:stick",
+    "C": "minecraft:ghast_tear"
+  },
+  "result": {
+    "id": "riftarmory:ghost_mace",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "riftarmory",
+  "version": "1.0.0",
+  "name": "Rift Armory",
+  "description": "Rift weapons: maces, spears and the Annihilation Stick.",
+  "authors": [
+    "betyrytik"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.riftarmory.Riftarmory"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

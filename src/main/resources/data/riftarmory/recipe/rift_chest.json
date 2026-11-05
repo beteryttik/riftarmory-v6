@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RGR",
+    "RHR",
+    "OOO"
+  ],
+  "key": {
+    "R": "riftarmory:rift_rod",
+    "G": "minecraft:gold_ingot",
+    "H": "riftarmory:rift_heart",
+    "O": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "riftarmory:rift_chest",
+    "count": 1
+  }
+}

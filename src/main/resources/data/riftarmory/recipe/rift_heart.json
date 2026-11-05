@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "riftarmory:rift_rod",
+    "minecraft:diamond"
+  ],
+  "result": {
+    "id": "riftarmory:rift_heart",
+    "count": 1
+  }
+}
